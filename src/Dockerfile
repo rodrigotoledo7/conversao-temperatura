@@ -1,4 +1,4 @@
-FROM registry.tjro.jus.br/docker-hub/library/node
+FROM registry.tjro.jus.br/docker-hub/library/node:22.6.0
 
 WORKDIR /app
 
